@@ -1,8 +1,20 @@
-Este repositório armazena projetos acadêmicos
+# Repositório de Projetos Acadêmicos
 
-📁 Logica_de_progamação: Contém códigos feitos na linguagem C em sala de aula durante o primeiro bimestre do curso de Ciência da Computação.
+Este repositório armazena projetos acadêmicos realizados durante o curso de Ciência da Computação.
 
-📁
+## Estrutura do Repositório
 
-📁
+### 📁 Lógica_de_Programação
+Contém códigos feitos na linguagem C durante o primeiro bimestre do curso, abordando os conceitos iniciais de programação.
+
+### 📁 -----
+
+
+### 📁 -----
+
+
+---
+
+Sinta-se à vontade para explorar os projetos e, se tiver alguma dúvida ou sugestão, entre em contato!
+
 
