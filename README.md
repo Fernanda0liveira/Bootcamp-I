@@ -8,10 +8,8 @@ Este repositório armazena projetos acadêmicos realizados durante o curso de Ci
 Contém códigos feitos na linguagem C durante o primeiro bimestre do curso, abordando os conceitos iniciais de programação.
 
 ### 📁 prova_bimestral_logica
-Contém códigos feitos na linguagem C para a avaliação bimestral da matéria Lógica de Progamação no curso de Ciência da Computação.
+Contém dois projetos simples feitos na linguagem C, uma calculadora e um classificador de faxa etária para a avaliação bimestral da matéria Lógica de Progamação no curso de Ciência da Computação.
 
-
-### 📁 -----
 
 
 ---
